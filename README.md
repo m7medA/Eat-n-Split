@@ -4,9 +4,9 @@ Eat 'n Split is a React application that helps you manage shared expenses with f
 
 ## Live Demo
 
-[here](live-demo-url).
+[Eat 'n Split](https://eat-and-split-mo7med.netlify.app).
 
-# Components
+## Components
 
 **App**: The main component that manages the state of friends, selected friend, and forms. It renders the sidebar with the friend list and the form to add a new friend, as well as the form to split a bill with a selected friend.
 
